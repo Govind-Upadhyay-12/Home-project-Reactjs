@@ -1,0 +1,17 @@
+.vide{
+    display: flex;
+    gap:25%;
+}
+.m11{
+    display: flex;
+    gap:25%;
+    margin-top: 60px;
+
+}
+.pi{
+    /* display: flex; */
+}
+.gio{
+    display: flex;
+    
+}

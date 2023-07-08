@@ -1,0 +1,21 @@
+.fd{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 184, 5);
+    text-shadow: 0 2px 3px;
+
+
+}
+.fd1{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(5, 5, 105);
+    text-shadow: 0 2px 5px;
+    white-space: nowrap;
+}
+.pp{
+    color: rgb(172, 169, 164);
+
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

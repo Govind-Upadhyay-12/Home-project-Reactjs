@@ -1,0 +1,12 @@
+.img1{
+    margin-top: 100px;
+    border-radius: 20rem 20rem 0rem 0rem;
+    margin-left: 80px;
+}
+.ma{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.da{
+    margin-left: 30%;
+}

@@ -1,0 +1,13 @@
+.Hero{
+    margin-left: 50%;
+    margin-top: -19%;
+    position: relative;
+    /* border-top-left-radius: 25px; */
+}
+.Hero1{
+    /* border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-radius: 30px; */
+    border-radius: 16rem 16rem 0 0 ;
+
+}

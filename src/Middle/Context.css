@@ -1,0 +1,23 @@
+.line1{
+    margin-top: 150px;
+    margin-left: 1%;
+}
+.line2{
+    margin-left: 1%;
+
+}
+.line1 h2{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 184, 5);
+    text-shadow: 0 2px 3px;
+    
+}
+.line2 h1{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(5, 5, 105);
+    text-shadow: 0 2px 5px;
+    white-space: nowrap;
+
+}
